@@ -1,0 +1,24 @@
+{
+  "name": "7-is-odd",
+  "version": "1.0.0",
+  "description": "checks if a given function is isIsIsIsIsIsOdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firefish111/7-is-odd.git"
+  },
+  "keywords": [
+    "is",
+    "odd",
+    "is-odd"
+  ],
+  "author": "firefish111",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/firefish111/7-is-odd/issues"
+  },
+  "homepage": "https://github.com/firefish111/7-is-odd#readme"
+}
