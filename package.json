@@ -1,6 +1,6 @@
 {
   "name": "7-is-odd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks if a given function is isIsIsIsIsIsOdd",
   "main": "index.js",
   "scripts": {

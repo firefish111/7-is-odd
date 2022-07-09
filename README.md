@@ -18,7 +18,7 @@ const isIsIsIsIsIsIsOdd = require("7-is-odd");
 
 console.log(isIsIsIsIsIsIsOdd(isIsIsIsIsIsOdd)); // => true
 console.log(isIsIsIsIsIsIsOdd(() => {})); // => false
-console.log(isIsIsIsIsIsIsOdd(() => console.log("This function is definitely is-odd"))); // => false
+console.log(isIsIsIsIsIsIsOdd(() => console.log("This function is definitely is-is-is-is-is-is-odd"))); // => false
 ```
 
 ## Why
