@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/firefish111/7-is-odd/issues"
   },
-  "homepage": "https://github.com/firefish111/7-is-odd#readme"
+  "homepage": "https://github.com/firefish111/7-is-odd#readme",
+  "dependencies": {
+    "6-is-odd": "^1.0.0"
+  }
 }
